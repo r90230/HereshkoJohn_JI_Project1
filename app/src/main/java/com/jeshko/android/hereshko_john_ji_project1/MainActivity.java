@@ -1,3 +1,5 @@
+//John Hereshko - Java I - Project 1
+
 package com.jeshko.android.hereshko_john_ji_project1;
 
 import android.app.AlertDialog;
